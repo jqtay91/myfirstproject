@@ -1,0 +1,41 @@
+body {
+  background-color: white;
+}
+
+@media only screen and (max-width:600px) {
+body {
+  background-image: url('https://img.freepik.com/free-photo/beautiful-shot-sea-with-mountain-distance-clear-sky_181624-2248.jpg?w=2000');
+}
+
+}
+
+h1 {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    font-family: helvetica;
+}
+
+h2 {
+    color: #9c88f7;
+    font-size: 40px;
+    text-align: center;
+    font-family: helvetica;
+
+}
+
+h3 {
+    color: #9c88f7;
+    font-size: 30px;
+    text-align: center;
+    font-family: helvetica;
+
+}
+
+p {
+    color: black;
+    font-size: 30px
+    font-family: helvetica;
+    text-align: center;
+
+}
